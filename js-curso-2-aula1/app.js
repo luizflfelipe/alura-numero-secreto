@@ -61,18 +61,29 @@ function reiniciarJogo(){
 
 
 //Para remover o ultimo elemento do array, use o comando pop();
+
 //Para adicionar um elemento no final do array, use o comando push();
+
 //Deploy: Significa publicar o código em um servidor para que outras pessoas possam acessar;
+
 //Vamos instalar o Git agora, que é um sistema de controle de versão, e o Github, que é uma plataforma para hospedar projetos de código-fonte;
+
 //Para adicionar o repositório remoto, use o comando: git remote add apelido url_do_repositorio;
+
 //Para listar os repositórios remotos, use o comando: git remote -v;
+
 //Para Remover um repositório remoto, use o comando: git remote remove apelido;
+
 //Para alterar a url de um repositório remoto, use o comando: git remote set-url apelido nova_url; //'git remote set-url origin https://github.com/seu-usuario/seu-repositorio.git'/
+
 //Para alterar o nome do repositório remoto use git remote rename apelido novo_nome; //
+
 //Use "git remote add origin url-do-repositorio-no-github" para adicionar o repositório remoto;
 
 //Vamos usar o comando "git push -u origin main" para enviar as alterações para o repositório remoto no GitHub;
+
 //O comando "git push" envia as alterações locais para o repositório remoto;
 
-
 //Git clone é usado para clonar um repositório remoto para o seu computador;
+
+//Adicionando comentários no Git: use o comando "git commit -m 'sua mensagem aqui'" para adicionar uma mensagem ao commit;
