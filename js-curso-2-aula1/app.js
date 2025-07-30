@@ -1,5 +1,5 @@
 let listaNumerosSorteados = [];
-let limiteNumero = 100;
+let limiteNumero = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 function exibirTextoNaTela(tag, texto){         //Criada a função que permite modificar o texto da tela; Usando os parametros tag para selecionar tipo 'h1' e texto para colocar o texto que quiser;
@@ -89,3 +89,5 @@ function reiniciarJogo(){
 //Adicionando comentários no Git: use o comando "git commit -m 'sua mensagem aqui'" para adicionar uma mensagem ao commit;
 
 //Se esta trabalhando em dupla ou em grupo, use o comando "git pull origin main"
+
+//Vamos usar o comando "git push origin main" para enviar as alterações para o repositório remoto no GitHub;
