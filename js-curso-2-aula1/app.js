@@ -80,10 +80,12 @@ function reiniciarJogo(){
 
 //Use "git remote add origin url-do-repositorio-no-github" para adicionar o repositório remoto;
 
-//Vamos usar o comando "git push -u origin main" para enviar as alterações para o repositório remoto no GitHub;
+//Vamos usar o comando "git push origin main" para enviar as alterações para o repositório remoto no GitHub;
 
 //O comando "git push" envia as alterações locais para o repositório remoto;
 
 //Git clone é usado para clonar um repositório remoto para o seu computador;
 
 //Adicionando comentários no Git: use o comando "git commit -m 'sua mensagem aqui'" para adicionar uma mensagem ao commit;
+
+//Se esta trabalhando em dupla ou em grupo, use o comando "git pull origin main"
